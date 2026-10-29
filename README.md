@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hladkyi03" alt="hladkyi03" /></a> </p>
 
-- 🌱 I’m currently learning **Node JS**
-
-- 💬 Ask me about **react, html,css, JS**
-
 - 📫 How to reach me **gladkiy1518@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
